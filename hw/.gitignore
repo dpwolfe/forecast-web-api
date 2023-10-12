@@ -1,0 +1,3 @@
+# build intermediates and output
+/bin
+/obj

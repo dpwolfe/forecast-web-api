@@ -1,0 +1,7 @@
+# build intermediates and output
+/bin
+/obj
+
+# test output
+/TestResults
+coverage.json
